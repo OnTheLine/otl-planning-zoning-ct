@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#title {
+  font-family: Arial, sans-serif;
+  padding: 0px 5px 5px;
+}
+
+#map {
+  position: absolute;
+  top: 45px;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+
+.leaflet-marker-icon i.fa-number {
+  font-size: 0.8rem !important;
+}
+
+.control-custom {
+  background-color: rgba(255,255,255,1);
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  border-radius: 5px;
+  padding: 8px 10px;
+}
+
+#rangeSlider {
+  width: 100px;
+}
+
+.range h4 {
+  margin: 0;
+}
+
+.leaflet-interactive:hover {
+  opacity: 0.8;
+}
