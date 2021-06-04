@@ -14,6 +14,8 @@ Leaflet map of planning and zoning agencies in Connecticut, 1957
 - 104 Planning and Zoning
 - 169 Total
 
-By 1957, 77 percent (131 out of 169) of town governments had established some type of planning and/or zoning agency, according to the Connecticut Development Commission, and most of these were located in the rapidly-suburbanizing regions around Hartford, New Haven, and Bridgeport. 
+By 1957, 77 percent (131 out of 169) of town governments had established some type of planning and/or zoning agency, according to the Connecticut Development Commission, and most of these were located in the rapidly-suburbanizing regions around Hartford, New Haven, and Bridgeport.
+
+Barkhamstead is one of the few towns without planning or zoning agency in 1957, and its center is almost 20 miles from Hartford's city center.
 
 Custom legend created in https://www.figma.com/file/7JitgyYxiT3xR3fyoZttKb/otl-zoning-graphics
